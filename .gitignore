@@ -1,0 +1,13 @@
+# Vagrant
+/.vagrant
+vagrant_hosts
+
+# Phpstorm
+/.idea
+
+# Netbeans
+/nbproject/*
+
+# OS
+.DS_Store
+Thumbs.db
